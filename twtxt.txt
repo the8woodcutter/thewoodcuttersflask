@@ -1,0 +1,10 @@
+# nick       = cmdr_chunk
+# url        = https://the8woodcutter.sh/twtxt.txt
+# avatar     = https://the8woodcutter.sh/img/THE8WOODCUTTER.png
+# description = I like chatboxes, I am the server owner/operator for xmpp:toofast.vip, I enjoy python, php, linux, sysadmin, webdev, backend, graphic art, website design, chatbots, hardcore rave music and dub bass music.
+#
+# These are aliases:
+# nick_alias = chunkimo
+# url        = https://twtxt.net/user/chunkimo/twtxt.txt
+2023-12-05T00:36:59+00:00	My Official First Proper TwTXT :D
+2023-12-05T00:39:25+00:00	https://twtxt.readthedocs.io/en/latest/user/configuration.html << to be referenced yes yes

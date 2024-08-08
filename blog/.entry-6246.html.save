@@ -1,0 +1,9 @@
+The8Woodcutter's Preliminary Software Test of *NEW* Debian 12 Bookworm!
+
+<p>
+    Greetings!  So since last night and through the night, minus a nap or two, I have been tinkering with my accustomed Debian.  This time Debian 12 (bookworm) is out!  If I may say so myself, I think Debian 11 was getting old and crusty so this is a cool thing to have a new Debian.  I've since had churned a number of Debian 11 hosts, whether VMs, VPSes or even bare metal.  In my honest opinion I didn't like Debian 11 much, I actually liked Debian 10.  Probably the single biggest reason for that was the apt-key deprecation warning and the stupid STUPID workaround for adding repositories.  That seriously made me mad on a few occasions.  I however haven't had encountered this yet with Debian 12.
+<br/><br/>
+    The things about this new Debian I am happy for are the updated things used for common LAMP servers.  Such as PHP8.2 !!  Yes!  As well a proper composer, that will apply to most composer php packaging things, without any incompatibilities of using composer 1.x.x when literally everything (Laravel namely eons ago) uses composer 2.^ and 1.x.x doesn't do squat...  This was a pain having to make a few extra page views around to download, rename, and put in /usr/bin/composer2 /usr/bin/composer1 and run them like this so as to use Laravel 5.5-ish as well as 5.9_
+</p>
+
+<p>Tags: keep-this-tag-format, tags-are-optional, example</p>

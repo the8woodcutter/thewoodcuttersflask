@@ -1,0 +1,275 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="icon" type="image/png" href="../favicon.png">
+<meta name="title" content="The Woodcutters Computing Blog" />
+<meta name="description" content= "The Woodcutters personal site and blog dedicated to Linux, computing and cool stuff!  Interesting web design and web content." />
+<meta name="robots" content= "index, follow" />
+<meta name="keywords" content="the8woodcutter, linux blog, tech blog, shell, computing, cool blog, custom design, web development" />
+<meta name="author" content="chunk@battlecruiser.co" />
+<meta property="og:title" content="ᴛʜᴇ8ᴡᴏᴏᴅᴄᴜᴛᴛᴇʀ.ꜱʜ" />
+<meta property="og:image" content="/img/og-meta-img.jpg" />
+<meta property="og:url" content="https://the8woodcutter.sh/blog" />
+<meta property="og:image:width" content="900px" />
+<meta property="og:description" content="The Woodcutters personal site dedicated to Linux, computing and stuff!" />
+<link rel="stylesheet" href="blog.css" type="text/css" />
+<link rel="alternate" type="application/rss+xml" title="Subscribe To RSS Feed" href="https://the8woodcutter.sh/blog/feed.rss" />
+<title>ᴛʜᴇ8ᴡᴏᴏᴅᴄᴜᴛᴛᴇʀ.ꜱʜ</title>
+</head><body>
+<div id="container">
+<div class="content">
+<div class="topart"><font class="code">┏┓┏┓╋╋╋╋╋╋╋╋╋╋┏┓╋╋╋┏┓┏┓<br/>┃┗┫┗┳━┳┳┳┳━┳━┳┛┣━┳┳┫┗┫┗┳━┳┳┓<br/>┃┏┫┃┃┻┫┃┃┃╋┃╋┃╋┃━┫┃┃┏┫┏┫┻┫┏┛<br/>┗━┻┻┻━┻━━┻━┻━┻━┻━┻━┻━┻━┻━┻┛<br/></font></div><br/><!-- <div style="max-width: 100%; margin: auto; height: 1.10em; border: 1px solid black; border-radius: 3px; background: #E3F2ED;"></div><br/><img src="../img/usr.bin.the8woodcutter.2.png" id="banner"/><br/><br/>--><font class="navlinks"><a href="../vids" target="_blank">Videos</a> <b>::</b> <a href="all_posts.html" target="_blank">All Posts</a> <b>::</b> <a href="/blog/all_tags.html" target="_blank">Tags</a> <b>::</b> <a href="feed.rss" target="_blank">RSS</a> <b>::</b> <a href="/img" target="_blank">IMG</a> <b>::</b> <a href="/about" target="_blank">About</a> <b>::</b> <a href="/test" target="_blank">Test</a> <b>::</b> <a href="https://musicplace.vip/loading" target="_blank"><code>THE.ARMADA</code></a></font><icon class="rss">&nbsp;&nbsp;</icon><br/><hr style="width:98%"/><br/>
+<h3><a class="ablack" href="so-on-an-actually-serious-note.html">
+So on an actually serious note
+</a></h3>
+<!-- bashblog_timestamp: #202405250412.20# -->
+<div class="subtitle">May 25, 2024 &mdash; 
+t̷h̷e̷8̷w̷o̷o̷d̷c̷u̷t̷t̷e̷r̷
+</div>
+<!-- text begin -->
+
+<p>
+I decided I am going to build yet another web application.  This will be my second flask web application and will be a growing of a couple of eve online game tools that use the game's API.  Flask is a really cool lightweight web application framework using python language and it's often used for constructing API's.  It seems to me to only make sense that it should be well suited to work with API's all around.  As well it does have some <code>JSON</code> commands embedded into it that simplify API calls.  I want to pursue my lust of web application building and along with building this new project I also plan to try and seal the deal, per say, or rather finish musicplace.vip.  It's mission in life, that web app of mine, was always simple and of a certain point.  It has basically served to create the solution I sought.<br/><br/>
+o about the new application I need to solve two eve online game problems.  One is the tiers of industry materials/items and their interconnecting complexity.  It is very difficult to perceive what is needed for what when the blueprints, materials, minerals, etc are cascaded on multiple tiers and have, although a fixed structure generally, a non linear structure that differs for all end result items.  I've used a couple of other "industry calculators" and indfustry tools but I want one that will just simply programmatically spit out a tree of what is needed, what is given, what is next and make it printable so a guy can upload the text file to eve and use it to purchase on the market.  I actually have a vision of this, as I've thought about it for most of my time playing eve.  I love that this game has such a detailed API access for all players.<br/><br/>
+Another thing, thought for some reason I cannot see it anymore, my one character's networth balooned to well over 100 billion isk and I do not know why.  I would like to be able to search my inventory, which can be listed with some details (I would iagine), but based on estimated value like it shows in a tooltip in game when you hover over it.  Imagining that somewhere, somehow, a publicly available subset or aggragate of market data exists I might use it, and keep it's regularly updated data refreshed in my application then program a method to search by value of item.  That is according to estimated value or perhaps Jita/Amarr (faction trade hubs) buy/sell price at the time.  Now I just thought here that I could probably get away with even only using data from the major hubs, or a selection of hubs, or depending on the complexity of information I could grab even a customizable set of data of market prices.  Whatever.<br/><br/>
+Suppose that this can be a learning exercise for effectively coordinating API calls, a unique web front end and a considerable size of data.  Plus not forgetting the logic involved in these functions is kind of extensive.<br/><br/>
+I'm not going to place high expectations on myself at the moment, due to a great discomfort with my life's situation lately and that being volatile to my ability to focus, but, if only I started then I should finish it at some point and be damn proud.<br/><br/>
+As a last piece of interest: I've stated a new goal today that is to be working effectively in the IT industry by my mid 40s (less than 10 yrs or approx).  So if such a project idea as this one sustains and is maintained then it might help me down the road :)  Cheers to beers friends!
+</p>
+
+<p>Tags: <a href='tag_flask.html'>flask</a>, <a href='tag_python.html'>python</a>, <a href='tag_goals.html'>goals</a>, <a href='tag_seriously.html'>seriously</a>, <a href='tag_webapplications.html'>webapplications</a>, <a href='tag_webapps.html'>webapps</a>, <a href='tag_programming.html'>programming</a>, <a href='tag_computing.html'>computing</a>, <a href='tag_webdev.html'>webdev</a>, <a href='tag_APIs.html'>APIs</a>, <a href='tag_JSON.html'>JSON</a>, <a href='tag_frameworks.html'>frameworks</a>, <a href='tag_projects.html'>projects</a></p>
+
+
+
+<!-- text end -->
+<h3><a class="ablack" href="i-wonder-now-what-now-happening-how-come-what-for.html">
+I wonder now what now happening, how come, what for?
+</a></h3>
+<!-- bashblog_timestamp: #202401071819.01# -->
+<div class="subtitle">January 07, 2024 &mdash; 
+t̷h̷e̷8̷w̷o̷o̷d̷c̷u̷t̷t̷e̷r̷
+</div>
+<!-- text begin -->
+
+<p>
+<b>Heya internet.  Whappens moew?</b><br/><br/>
+<img src="/img/me.smmoke.w.specs.8.jpg" alt="I wear my sunglasses at winter..." /><br/><br/>
+So this past 2 days has been gruelling, back breaking, barely withstandable labour to do a handful of things.  I am basically going to try to make a web community under the pirate flag of THE ARMADA, do not repeat that without using all capitals, out of respect for the fallen comrades, thanks, but in making this community again it requires a code place.  I mean a place to put the code, that we work on.  Fun part about gitea is it has communities for things like this.  When I first tried to make this community I also tried the google shit, that supposed business email, groups, etc shit, and I say shit because just like amazon I can't imagine how such a terrible corporation is s filthy rich..  Anyways.  So I thought this time I would make a mail server on my <code> Network Throughput I/O </code> domain <code>Packets.cc</code> ..  Anyways, and I found a thing, I haven't seen it yet, but in debian repositories <code>mailman3-web</code> (i think it was).  I guess it uses a thing called <code>HyperKitty</code> and Django for a web app that handles mail?  I'm willing to give it a try!<br/><br/>
+As well, I'm not sure why I'm struggling to understand and deal with figuring out how the F to host a uWSGI, or any WSGI, server for proxying my https from my <b>FLASK PROJECT!!</b> 😄😄😄😄  Yes, I am VERY much happy that I am learning a new, and in my opinion possibly better than Laravel, web application framework.  I'm pretty sure very very few people know one thing about me, and that is that I really enjoy web applications and creating them gives me a helluva a good feeling when confronted with all the ideas I get for building web apps.  This is truly what I was destined to do I think but anyways, so, I'm really stoked about Flask, and Pythons!<br/><br/>
+It is questionable whether the page is or will be operational, but <a href="https://musicplace.vip" target="_blank">MUSICPLACE.Vip</a> and JUST TODAY!  I managed to figure out how <code>uWSGI</code> works, at least enough that it's rendering the CSS files.  It's a work in progress though, and I'm not giving out the password until it's stable.  Afterwards I might ask a couple of folks if they want to poke it, meaning with a pen, just to know I build my flask app sturdy.<br/><br/>
+I shall return for more EPIC POST!  GIT ER DRUNK, BAMBOOZLE HER, THEN PARTY AT MY POST!  LoL I just made that up, stupid, I know.<br/><br/>
+<b>PLUS:</b> As for XMPP, which I fail to properly rage quit, and I am permanently a slave to, I discovered that one of my new years resolutions for 2024 will be that if I'm going to always be a strange and weird XMPP server operator, I might as well be better at it.  Blimey trolls!  OH AND ONE MORE THING: I shall be doing CSS/layout type modifications to the8woodcutter.sh, to make it actually worth visiting.  There's a slight chance that this intention gets lost in the abyss of my many missions but let's propose it happens, and you might love the changes when they come, bon voyage!  😵
+</p>
+
+<p>Tags: <a href='tag_news.html'>news</a>, <a href='tag_the8woodcutter.html'>the8woodcutter</a>, <a href='tag_chunk.html'>chunk</a>, <a href='tag_xmpp.html'>xmpp</a>, <a href='tag_flask.html'>flask</a>, <a href='tag_python.html'>python</a>, <a href='tag_learning.html'>learning</a>, <a href='tag_uwsgi.html'>uwsgi</a>, <a href='tag_webapps.html'>webapps</a>, <a href='tag_webdevelopment.html'>webdevelopment</a>, <a href='tag_coding.html'>coding</a>, <a href='tag_sysops.html'>sysops</a>, <a href='tag_devops.html'>devops</a>, <a href='tag_linux.html'>linux</a>, <a href='tag_css.html'>css</a>, <a href='tag_html.html'>html</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- text end -->
+<h3><a class="ablack" href="stash-a-website-idea-here.html">
+Stash a website idea here
+</a></h3>
+<!-- bashblog_timestamp: #202307281008.46# -->
+<div class="subtitle">July 28, 2023 &mdash; 
+t̷h̷e̷8̷w̷o̷o̷d̷c̷u̷t̷t̷e̷r̷
+</div>
+<!-- text begin -->
+
+<p>
+    Howdy all!  If there's somebody reading this I am curious if you ever remember a web application that actually I think was around the exact same time as facebook or was even earlier than facebook's 'kickoff', it was called tagged.com (the TLD i am not for sure, but name yes).  It was a neat and unique app that people could make themselves profiles with pics, little bit of meta stats, and then you can be bought and sold and accumulate value in the app the more people kept buying you for more.  This was I guess a way to fame if you were like, hot girl nice pics, you might probably get bought then taken from that owner by another higher bidder and the subject, lol I know this might sound bad even, will become more valuable.  I can't recall how one made money, I think it might've been by playing stupid games or something?  Not doing surveys I don't think, but yea.  They also were one of the earlier, in my memory of the internet, apps to have a 'hot or not' selector, that would randomly go through maybe even similar (metadata, big data, I don't think bigdata or machine learning was a thing yet when this was) profiles and you could be like yep, or nope.  I really enjoyed the interpersonal interactions of that app and it's no longer around I'm pretty sure.  Last I remember it was overrun by bots kind of, and it might've died.
+<br/><br/>
+    Well what if somebody (ME, Do NoT TAKE MY IDEA!) remade this website and added for example, the overlay interface for conversejs so you could chat in actually legitimate chats while you interact with people and their profiles?  I imagine one might want to create a custom xmpp server for this!  So I am writing this post to jot it down like notes for myself for soon (tm).
+<br/><br/>
+    Well and now I sorta feel stupid, and happy, at the same time!  <a href="https://www.tagged.com/" target="_blank">Tagged.Com</a> does exist still :D:D  I have to check this out, but still going to consider a clone of it, heavily modified.  Why?  Because web apps!  Come back again to my happy blog, while I working on it ever so gently (the CSS) it's becoming a nice place, I hope you enjoy reading it 🐱
+</p>
+
+<p>Tags: <a href='tag_ideas.html'>ideas</a>, <a href='tag_webapps.html'>webapps</a>, <a href='tag_webdev.html'>webdev</a>, <a href='tag_the8woodcutter.html'>the8woodcutter</a>, <a href='tag_social-media.html'>social-media</a>, <a href='tag_internet2.0.html'>internet2.0</a>, <a href='tag_coolstuff.html'>coolstuff</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- text end -->
+<br>
+
+</div>
+</div>
+<div class="myfooterdiv" style="margin-bottom: 4px;">
+<hr/>
+<!--   <div class="footerbartop">
+    <center>
+      <font class="footertext" style="background:#248065; color: black; font-family: 'Staatliches', cursive;">
+        <a href="https://hardteckno.com">>! hardteckno.com !<</a>      
+      </font>
+
+      <font class="footertext" style="background:#B24220; color: black; font-family: 'Staatliches', cursive;">
+        <a href="https://the8woodcutter.sh">>! the8woodcutter.sh !<</a>      
+      </font>
+
+      <font class="footertext" style="background:#CDBF63; color: black; font-family: 'Staatliches', cursive;">
+        <a href="https://macceo.co">>! macceo.co !<</a>        
+      </font>
+    </center>
+  </div>
+  <div class="footerbarbottom">
+    <center>
+      <font class="footertext" style="background:#454545; color: black; font-family: 'Staatliches', cursive;">
+        <a href="https://battlecruiser.co" style="">>! battlecruiser.co !<</a>
+      </font>
+
+      <font class="footertext" style="background:#2489cf; color: black; font-family: 'Staatliches', cursive;">
+        <a href="https://dock.battlecruiser.co">>! dock.battlecruiser.co !<</a>
+      </font>
+
+      <font class="footertext" style="background:#C27724; color: black; font-family: 'Staatliches', cursive;">
+        <a href="https://blog.battlecruiser.co">>! blog.battlecruiser.co !<</a>
+      </font>
+
+      <font class="footertext" style="background:#eb4242; color: black; font-family: 'Staatliches', cursive;">
+        <a href="https://battlecruiser.co/images/gallery">>! /gallery !<</a>
+      </font>
+    </center>
+  </div>
+ -->
+  <div class="normalimg">
+<!--    <center>
+      <img src='/blog/footer/321webmaster.gif' />
+      <img src='/blog/footer/altavista.gif' />
+      <img src='/blog/footer/anonymize.gif' />
+      <img src='/blog/footer/bigbrother.gif' />
+      <img src='/blog/footer/bobbles.gif' />
+      <img src='/blog/footer/but_blinkies.gif' />
+      <img src='/blog/footer/cdaweb.gif' />
+      <img src='/blog/footer/cooltxt.gif' />
+      <img src='/blog/footer/email.gif' />
+      <img src='/blog/footer/fckfb.gif' />
+      <img src='/blog/footer/fckgoogle.gif' />
+      <img src='/blog/footer/fckingwww.gif' />
+      <img src='/blog/footer/ffmpeg.gif' />
+      <img src='/blog/footer/ffrediscover.gif' />
+      <img src='/blog/footer/hatems.gif' />
+      <img src='/blog/footer/hell0.gif' />
+      <img src='/blog/footer/htmldream.gif' />
+      <img src='/blog/footer/join_shockrave.gif' />
+      <img src='/blog/footer/linkwarez.gif' />
+      <img src='/blog/footer/linux_mint.gif' />
+      <img src='/blog/footer/linux-p.gif' />
+      <img src='/blog/footer/m-lol.gif' />
+      <img src='/blog/footer/modulez.gif' />
+      <img src='/blog/footer/mozilla2.gif' />
+      <img src='/blog/footer/mysqla.gif' />
+      <img src='/blog/footer/nekojiru2.gif' />
+      <img src='/blog/footer/noerror.gif' />
+      <img src='/blog/footer/omfg.gif' />
+      <img src='/blog/footer/parental.gif' />
+      <img src='/blog/footer/press.gif' />
+      <img src='/blog/footer/pyurk.gif' />
+      <img src='/blog/footer/trafficjumbobutton.gif' />
+      <img src='/blog/footer/valid-html401.gif' />
+      <img src='/blog/footer/vcss.gif' />
+      <img src='/blog/footer/vd_button.gif' />
+      <img src='/blog/footer/working.gif' />
+    </center>-->
+<center>
+<span style="background-color: #DEFFEF; border-bottom: #EAAAEE; border-right-radius: 3px; border-left-radius: 3px;">
+<b> .. -</b> <font style="color: #BDE78C; border-bottom: 1px dashed #313131; border-bottom-left-radius: 5px; font-size: 28px; filter: invert(75%);">𝕥𝕙𝕖𝟠𝕨𝕠𝕠𝕕𝕔𝕦𝕥𝕥𝕖𝕣</font>...<b>-</b>..
+</span>
+</center>
+
+  </div>
+</div>
+</body></html>

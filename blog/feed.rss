@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel><title>🅃🄷🄴⓼🅆🄾🄾🄳🄲🅄🅃🅃🄴🅁</title><link>https://the8woodcutter.sh/blog/index.html</link>
+<description>My webart blog - the8woodcutter</description><language>en</language>
+<lastBuildDate>Sat, 25 May 2024 04:30:27 +0000</lastBuildDate>
+<pubDate>Sat, 25 May 2024 04:30:27 +0000</pubDate>
+<atom:link href="https://the8woodcutter.sh/blog/feed.rss" rel="self" type="application/rss+xml" />
+<item><title>
+So on an actually serious note
+</title><description><![CDATA[
+
+<p>
+I decided I am going to build yet another web application.  This will be my second flask web application and will be a growing of a couple of eve online game tools that use the game's API.  Flask is a really cool lightweight web application framework using python language and it's often used for constructing API's.  It seems to me to only make sense that it should be well suited to work with API's all around.  As well it does have some <code>JSON</code> commands embedded into it that simplify API calls.  I want to pursue my lust of web application building and along with building this new project I also plan to try and seal the deal, per say, or rather finish musicplace.vip.  It's mission in life, that web app of mine, was always simple and of a certain point.  It has basically served to create the solution I sought.<br/><br/>
+o about the new application I need to solve two eve online game problems.  One is the tiers of industry materials/items and their interconnecting complexity.  It is very difficult to perceive what is needed for what when the blueprints, materials, minerals, etc are cascaded on multiple tiers and have, although a fixed structure generally, a non linear structure that differs for all end result items.  I've used a couple of other "industry calculators" and indfustry tools but I want one that will just simply programmatically spit out a tree of what is needed, what is given, what is next and make it printable so a guy can upload the text file to eve and use it to purchase on the market.  I actually have a vision of this, as I've thought about it for most of my time playing eve.  I love that this game has such a detailed API access for all players.<br/><br/>
+Another thing, thought for some reason I cannot see it anymore, my one character's networth balooned to well over 100 billion isk and I do not know why.  I would like to be able to search my inventory, which can be listed with some details (I would iagine), but based on estimated value like it shows in a tooltip in game when you hover over it.  Imagining that somewhere, somehow, a publicly available subset or aggragate of market data exists I might use it, and keep it's regularly updated data refreshed in my application then program a method to search by value of item.  That is according to estimated value or perhaps Jita/Amarr (faction trade hubs) buy/sell price at the time.  Now I just thought here that I could probably get away with even only using data from the major hubs, or a selection of hubs, or depending on the complexity of information I could grab even a customizable set of data of market prices.  Whatever.<br/><br/>
+Suppose that this can be a learning exercise for effectively coordinating API calls, a unique web front end and a considerable size of data.  Plus not forgetting the logic involved in these functions is kind of extensive.<br/><br/>
+I'm not going to place high expectations on myself at the moment, due to a great discomfort with my life's situation lately and that being volatile to my ability to focus, but, if only I started then I should finish it at some point and be damn proud.<br/><br/>
+As a last piece of interest: I've stated a new goal today that is to be working effectively in the IT industry by my mid 40s (less than 10 yrs or approx).  So if such a project idea as this one sustains and is maintained then it might help me down the road :)  Cheers to beers friends!
+</p>
+
+<p>Tags: <a href='tag_flask.html'>flask</a>, <a href='tag_python.html'>python</a>, <a href='tag_goals.html'>goals</a>, <a href='tag_seriously.html'>seriously</a>, <a href='tag_webapplications.html'>webapplications</a>, <a href='tag_webapps.html'>webapps</a>, <a href='tag_programming.html'>programming</a>, <a href='tag_computing.html'>computing</a>, <a href='tag_webdev.html'>webdev</a>, <a href='tag_APIs.html'>APIs</a>, <a href='tag_JSON.html'>JSON</a>, <a href='tag_frameworks.html'>frameworks</a>, <a href='tag_projects.html'>projects</a></p>
+
+
+
+<!-- text end -->
+]]></description><link>https://the8woodcutter.sh/blog/so-on-an-actually-serious-note.html</link>
+<guid>https://the8woodcutter.sh/blog/./so-on-an-actually-serious-note.html</guid>
+<dc:creator>t̷h̷e̷8̷w̷o̷o̷d̷c̷u̷t̷t̷e̷r̷</dc:creator>
+<pubDate>Sat, 25 May 2024 04:12:20 +0000</pubDate></item>
+<item><title>
+None of my shit makes sense
+</title><description><![CDATA[
+
+<p>
+My apoligies for something...  Though I proof read my last post I did write it in my text editor and not with a fancy serif font or any other formatting things that help a writer write proper english.  My grammar is terrible so I'm sorry if it's hard to read, I will improve that.  Also for some stupid reason firefox will not display the font correctly.  These two things are immediately up next to work on for my happy web log.  Don't be cranky, I'm only illiterate, I could be a loser piece of s%#t but I'm not.  (grudging) (feign happiness) (combat roll out of apache helicoptor with no parachute)<br/><br/>
+Nobody work, nobody gets hurt.
+</p>
+
+<p>Tags: <a href='tag_notes.html'>notes</a>, <a href='tag_supplicant.html'>supplicant</a>, <a href='tag_additional.html'>additional</a>, <a href='tag_more.html'>more</a>, <a href='tag_giveme.html'>giveme</a>, <a href='tag_cheddarcheese.html'>cheddarcheese</a>, <a href='tag_crackers.html'>crackers</a>, <a href='tag_canieatthis.html'>canieatthis</a></p>
+
+
+
+
+<!-- text end -->
+]]></description><link>https://the8woodcutter.sh/blog/none-of-my-shit-makes-sense.html</link>
+<guid>https://the8woodcutter.sh/blog/./none-of-my-shit-makes-sense.html</guid>
+<dc:creator>t̷h̷e̷8̷w̷o̷o̷d̷c̷u̷t̷t̷e̷r̷</dc:creator>
+<pubDate>Fri, 24 May 2024 06:16:17 +0000</pubDate></item>
+<item><title>
+Lenovo USFF Project News for May
+</title><description><![CDATA[
+
+<p>
+	Greetings TCP farers.  Did you know?  Neither did I!  That is a multitude of things LoL<br/><br/>
+	I have not been on my keyboard for programming so much lately but instead playing games.  I ordered a Lenovo ThinkCentre from Ebay that was stuck in that damn ebay global shipping program, which I honestly can't stand.  After waiting a full month I got my refund back yet still the (expensive) thing came!  I truly did feel blessed in a time amidst multiple hardships.  This enabled me to move right ahead and get the project done as it were simple from there.  What I needed was a <code>PCIE 8x</code> (proprietary) Lenovo riser that provides a <code>PCIE 16x</code> port on a 90 degree angle.  In case you aren't aware this computer is very small.  It's like <code>7x7x1.5</code> inches and can be mounted behind a monitor.  Maybe you've seen such a device, about the size of a thin client. Anyways, then to get a GPU for that slot.  The computer's CPU is actually not bad at all and has quite appreciable graphics without a dedicated GPU but my friend on <code>XMPP</code> found one that meets my hardware constraints and actually boasts real performance.  Hardware constraints such as not using too many watts for the PSU cable, which I've upgraded to 230w from 135w demand stock, size for the sake of fitting in the case (this is a large portion of the appeal for this project) as well as not needing external <code>SATA</code> or <code>PCIE</code> power.<br/><br/>
+	So I bought this literally TINY half height AMD Radeon RX 6400 that doesn't require external power and is about 157mm in length and fits into the already tiny computer I have on that riser I mentioned.  I have been able to play Need For Speed Unbound and even made a few screen recordings and posted on my <a href="https://youtube.com/@0x25" target="_blank">YouTube Channel</a>.  It's not quite as good as my previous gaming MSI laptop but it definitely is appreciable for what it's worth.  Being tiny and, although loud, not producing really serious amounts of heat.<br/><br/>
+	I have had about ③ weeks of fun with this, and a lot of fun as I was missing <b>NFS Unbound's Volume 6</b>, however unfortunately I had to learn something and had made a costly mistake.  The mistake was not knowing, or thinking when I installed it and seen the GPU's pcb board resting on the metal housing of the USB jack on the rear, that some metal contacts on the GPU's board might short by bridging across the metal housing of the USB port.  I honestly didn't think much about it at the time and when I was playing on it for the first while the performance was literally really good but (and only after noticed) eventually slowly degraded to a point where it seemed I couldn't tweak settings to achieve what I had before.  After a while it had did something weird my computer reset on me, but wouldn't actually boot then.  It did a few more times in shorter intervals and at last after doing it twice in shorter time caused my computer not to boot.<br/><br/>
+	That caused me much sadness, so much sadness that I wouldn't even mess with it for ③ days.  I had to get in a good mood to bother cracking it open and popping the GPU + riser card out and alas!  It booted!  I had noticed that while not booting no fans would operate and the lit up ends of my HDMI cable wouldn't light up BUT the power light on the machine did.  This is how I thought it may be a power fault.<br/><br/>
+	What I eventually seen while inspecting the GPU's board was an odd light discoloration looking vaguelly like a burn that was sort of through the board and seemed to travel from the HDMI slot on the GPU towards a capacitor on the other side of it.  It was at that time that I declared officially my (not so cheap but fortunately not that overly expensive either) GPU dead.  Sad, I see it on one of my shelves, so new and only 3 weeks of life, it's dead 😔<br/><br/>
+	Now my only remaining concern was if somehow I burned out a component on the riser.  If I did, and I'm honestly not sure exactly if I'd be able to determine, then I would need to pay another approximately 350CAD to redo this all.  I am not rich, not even close, I am dirt poor just about I won't lie so this deepens my sadness but I am still extremely grateful this little beast fired up again, the computer I mean.  At first I really worried that it had died but fortunately it wouldn't have been that humongous of a loss, if so, because I did acquire it free.  Thanks capitalism!  You finally did me a solid <code>but I still hate you!</code> 🖕  LoL ...  I actually like ebay, for the most part, and definitely with the exception of the ebay global shipping program.<br/><br/>
+	If my home life wasn't so damn terrible, er, lack of a decent home, whatever, I'd consider redoing this right soon and getting another GPU but it will be postponed for the sake of leaving this entire civil district and getting away from a doomed mission to live in a place that I cannot be free or comfortable.  Always losses in life and that will cost too (A LOT).  So perhaps I will also postpone pictures and a more detailed post until I am able to make it work under the best conditions.  Here's hoping that happens, and soon!<br/><br/>
+	Here is a sweeeet forum post with a MASSIVE amount of details related to computers like this, you might probably <a href="https://forums.servethehome.com/index.php?threads/lenovo-thinkcentre-thinkstation-tiny-project-tinyminimicro-reference-thread.34925/" target="_blank">find this interesting</a> ..  and some <a href="https://www.servethehome.com/tag/tinyminimicro/" target="_blank">more related</a> ..  🎲
+</p>
+
+<p>
+	Tags: tinyminimicro, lenovo, thinkcentre, project, computing, the8woodcutter, amdradeon, nfsunbound, thestonewall, hardware, gaming, life
+</p>
+
+
+
+
+
+
+<!-- text end -->
+]]></description><link>https://the8woodcutter.sh/blog/lenovo-usff-project-news-for-may.html</link>
+<guid>https://the8woodcutter.sh/blog/./lenovo-usff-project-news-for-may.html</guid>
+<dc:creator>t̷h̷e̷8̷w̷o̷o̷d̷c̷u̷t̷t̷e̷r̷</dc:creator>
+<pubDate>Fri, 24 May 2024 05:58:46 +0000</pubDate></item>
+<item><title>
+My Desktop Today - Again, Again 🤔
+</title><description><![CDATA[
+
+<p>
+Hallo happy internet!  I thought I would share my theme and wallpaper (<i>made by me,yay</i>) from today 🔥<br/><br/>
+<img src="/img/ping.preserve.my.coordinates.png" /><br/>
+<sup>This uses xfce4, on archlinux, I'm currently running off my LTE with my thinkpad modem in the basement, with a 19% signal (very low), and the ping is for polling the tower so that I get priority presence on the LTE network and a decent bandwidth and latency despite being under the cement walls in the basement</sup><br/><br/>
+<img src="/img/the8woodcutter.ribbons.wallpaper.png" /><br/>
+<sup><small>1920x1080</small></sup><br/><br/>
+I have a little project with a new computer of mine to share in the near future, as well I hope you like the CSS updates (styles) I made to this page and the <code>homepage</code> ..  🌊 👋
+</p>
+
+<p>Tags: <a href='tag_again.html'>again</a>, <a href='tag_mydesktoptoday.html'>mydesktoptoday</a>, <a href='tag_archlinux.html'>archlinux</a>, <a href='tag_coordinates.html'>coordinates</a>, <a href='tag_chunkswhereabouts.html'>chunkswhereabouts</a>, <a href='tag_whereami.html'>whereami</a>, <a href='tag_kewl.html'>kewl</a></p>
+
+
+
+
+
+
+
+<!-- text end -->
+]]></description><link>https://the8woodcutter.sh/blog/my-desktop-today---again-again-.html</link>
+<guid>https://the8woodcutter.sh/blog/./my-desktop-today---again-again-.html</guid>
+<dc:creator>t̷h̷e̷8̷w̷o̷o̷d̷c̷u̷t̷t̷e̷r̷</dc:creator>
+<pubDate>Sun, 28 Apr 2024 18:23:04 +0000</pubDate></item>
+<item><title>
+Turtles ontop of turtles!
+</title><description><![CDATA[
+
+<p>
+⚠️<b> WARNING!</b>⚠️<br/>
+This is not your average post!<br/><br/>
+<img src="/img/holy.moley.graffiti.jpg"/><br/>
+<sup>Oceanwide Plaza | Los Angeles 🇺🇸 | 2024 | 🌇🔥 <small>- scored from facebook *ducks*</small></sup>
+</p>
+
+<p>Tags: <a href='tag_quack.html'>quack</a>, <a href='tag_graffiti.html'>graffiti</a>, <a href='tag_warning.html'>warning</a>, <a href='tag_art.html'>art</a>, <a href='tag_iamapost.html'>iamapost</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- text end -->
+]]></description><link>https://the8woodcutter.sh/blog/turtles-ontop-of-turtles.html</link>
+<guid>https://the8woodcutter.sh/blog/./turtles-ontop-of-turtles.html</guid>
+<dc:creator>t̷h̷e̷8̷w̷o̷o̷d̷c̷u̷t̷t̷e̷r̷</dc:creator>
+<pubDate>Mon, 08 Apr 2024 21:01:19 +0000</pubDate></item>
+<item><title>
+My shovel is not empty
+</title><description><![CDATA[
+
+<p>
+Last couple weeks have been atrocious.  I literally maintain a seething venomous hatred for narcist people.  But the good news is I got a new mobo upgrade!  From an i5 to an i7 and all the little windows animations (not that I use binboez very often except to game) and the various tiny things, like keyboard responsiveness, have improved.  I originally needed a mobo for my mobile rig because I thrashed the SIM card slot so bad that I broke one of the pins from the board for the reading of the card, and even tore off the shield from the board too.  That happened the day after I had gotten the 4G modem for my laptop and I was very very sad.  Now I'm happy again, I have not only modem, SIM card slot (no SIM tho, too poor to pay for phone plan that when my phone died permanently too) but an upgrade to have nicer software effects <3<br/><br/>
+I have fixed the server, I was locked out for a while cuz one day I decided to attempt to create a multiboot with kali and blackarch (i wanted pentesting distro on disk not vm) and the installer wiped all my disk.  NOW I DID BACKUP MY STUFF, BUT, I dumbassedly accidentally deleted <code>rm -rf * .*</code>, yea, and so <code>~/.ssh</code> unrecoverable after that.  I spent a few days mulling and complaining about the fact that I thought I'd have to download the server image, etc, etc, etc, while my landlord has f$$kkd the network here so bad that it's not possible to download that many GB in less than a week, seriously, so but I fixed it.  We're back.  Just lend me 20CAD now pls, so I can pay for the server.  People owe me money aren't paying me, my leg is recovering from broken knee, I give it lots of luv, but I hurt it again today :(((  I am sad and happy and WHERE AM I D:<br/><br/>
+As for any other entertainment, stay tuned!  📺<br/><br/>
+<img src="/img/ysoserious.jpg" alt="Why SO SERIOUS"/><br/>
+</p>
+
+<p>Tags: <a href='tag_dirt.html'>dirt</a>, <a href='tag_myleg.html'>myleg</a>, <a href='tag_serverstuff.html'>serverstuff</a>, <a href='tag_news.html'>news</a>, <a href='tag_tv.html'>tv</a>, <a href='tag_mobo.html'>mobo</a>, <a href='tag_upgrades.html'>upgrades</a>, <a href='tag_narcistscum.html'>narcistscum</a>, <a href='tag_mailorderhate.html'>mailorderhate</a>, <a href='tag_whysoserious.html'>whysoserious</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- text end -->
+]]></description><link>https://the8woodcutter.sh/blog/my-shovel-is-not-empty.html</link>
+<guid>https://the8woodcutter.sh/blog/./my-shovel-is-not-empty.html</guid>
+<dc:creator>t̷h̷e̷8̷w̷o̷o̷d̷c̷u̷t̷t̷e̷r̷</dc:creator>
+<pubDate>Sun, 07 Apr 2024 18:21:20 +0000</pubDate></item>
+<item><title>
+Outside in or inside out?
+</title><description><![CDATA[
+
+<p>
+As for the title, I dunno either, good question though right?  What's crackin up in your ip ports eh?  Anything juicy?  For me I've had a bit of a run of bad luck.  I spent a lot of money on a dedicated server from OVH to only be so utterly pissed off with the fact that A: I could not get an IPMI/KVM interface with the, what would've been, cheap dedicated server I had, B: that device to get added cost me WAY more money than I budgeted or originally expected to pay for dedicated hardware server, C: customer service is most worst bullshit useless as tits on a bull, so, I won't use OVH again maybe ever.  They really do have the cheapest dedicated servers, and I wanted one to run REAL virtualization instead of LXC containers because at the time LXC was pissing me off also, but quite badly, as I was not able to get the containers to network and my steps to retrying were so lengthy I ran outta patience.  Well, waste begat waste because in the ambition for real virtualization was a huge waste also.  This is why I only as of now have a server again.  TooFast.vip (my XMPP chat server host) was down, this page was down, my flask project MusicPlace.vip was down, no public nothing since my budget for a server per month was wasted on OVH, and I emphasize WASTED.<br/><br/>
+SUPRISE!!  Now I'm renting a VPS from some IRC friends.  The interface or management of it is lacklustre and entirely command line but now I've also found a way to make LXC containers friggin work.  With networking!  Did u know that libvirt has a package (in debian it's `<code>sudo apt install libvirt-daemon-driver-lxc</code>`) for managing LXC containers?  And if u ignore the Qemu aspect of libvirt (and virt-manager, etc) it can manage containers, and this scheme of brilliant software if I may say so myself, automagically makes LXC boxes run on <code>virbr0</code> which is libvirt's bridge for VMs.  More can be nmade with differing configurations though.  So, and I'm familiar with libvirt so YAY :D  On my laptop Debian I've succeeded at the new devops apparatus but in dev/test mode.  I know what to do, and some things I will run publicly will be used in LXC containers.  It's been a long time and I'm finally happy to say it's on the way!!!  Ahah, maybe somebody reading this is like "what, I don't see any boxes..." but that's because this is devops, it's on server side of my linux server, it's how the entire software abstracts correlate and network and work together so that the client can view my website, but me and my server are more secure being containerized, and replicable, if somebody fux up my WSGI server, I can just reiterate it, instead of the entire damn VPS server host itself.  It's reusable, more secure as it essentially fakes another operating system that is not supposed to have any knowledge it is a machine inside a machine.  The libvirt does all the management of software emulation and bricking off any sort of path traversal, chroot, jail, whatever stuff, if u know u know, if not, then at least be happy I made stuff more secure.  Or I'm working on it anyways ^^<br/><br/>
+Here, lemme share with you a little art I made recently:<br/><br/>
+<img src="/img/da.gif.gif" style="width: 168px; height: 68px; margin-left: 40px;" /><br/><br/>
+I dunno if you've noticed but that's the background tile for this /blog page now.  Just random stuff ^^<br/><br/>
+So in other news, I acquired another new Mini-ATX small form factor computer.  This one I was very very fortunate finding out just how powerful it is!  If you know what a mini-atx looks like, then you probably wouldn't suspect that it could have an additional graphics card added into it would ya...  Well this one has a PCI-E x8 and with a proprietary Lenovo made only riser card I can angle that to a x16 and THERE ACTUALLY IS some GPUs that fit and work just fine in this machine D:  >.....>>..>..<br/><br/>
+I also found a huge write up about it, very detailed, maddest props to the guys that wrote that all out with all the references I needed to know how to turn my mini-atx into a legitimate gaming computer :D:D  That's cool!!<br/><br/>
+Also I have gotten me a new laptop, a Lenovo X250 with a 12.5" diameter screen and a backlit keyboard :D:D  It's kewl.  Screw gaming laptops, they're shit, the bios/firmwares on gaming laptops is so easily corruptable, like the MSI and the alienware too i used to have pfff, but business class laptops are where it's at!  The security settings in Lenovo computers are GREAT.  AMAZING even.  So awesome, and they're always nice looking, feeling and running.  So I'm happy not being able to play NFS Unbound, for now.<br/><br/>
+Oi, there'd be more news for this past month, but I will leave it at this.  I hope you enjoyed reading my stuff, and I will over the next time (given my stuff all stays stable) write more kkewl updates to the design of the8woodcutter.sh and lastly I do have some other post ideas, so stay tuned!  Get an RSS reader so you can get auto poppos on my shiz @_@<br/>
+</p>
+
+<p>Tags: <a href='tag_news.html'>news</a>, <a href='tag_computers.html'>computers</a>, <a href='tag_skids.html'>skids</a>, <a href='tag_mini-atx.html'>mini-atx</a>, <a href='tag_gaming-computer.html'>gaming-computer</a>, <a href='tag_comeback.html'>comeback</a>, <a href='tag_french-fries.html'>french-fries</a>, <a href='tag_delicious-gravy.html'>delicious-gravy</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- text end -->
+]]></description><link>https://the8woodcutter.sh/blog/outside-in-or-inside-out.html</link>
+<guid>https://the8woodcutter.sh/blog/./outside-in-or-inside-out.html</guid>
+<dc:creator>t̷h̷e̷8̷w̷o̷o̷d̷c̷u̷t̷t̷e̷r̷</dc:creator>
+<pubDate>Wed, 20 Mar 2024 19:11:58 +0000</pubDate></item>
+<item><title>
+REKTIFIED 💥
+</title><description><![CDATA[
+
+<p>
+<a href="https://musicplace.vip/track?file=2Al_Twisted___Sadistic__Rectify320kb_s_MP3.mp3" target="_blank">https://musicplace.vip/track?file=2Al_Twisted___Sadistic__Rectify320kb_s_MP3.mp3</a> 🧨 🔥
+</p>
+
+<p>Tags: <a href='tag_REKT.html'>REKT</a>, <a href='tag_musicplace.html'>musicplace</a>, <a href='tag_hardcore.html'>hardcore</a>, <a href='tag_ravemusic.html'>ravemusic</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- text end -->
+]]></description><link>https://the8woodcutter.sh/blog/rektified.html</link>
+<guid>https://the8woodcutter.sh/blog/./rektified.html</guid>
+<dc:creator>t̷h̷e̷8̷w̷o̷o̷d̷c̷u̷t̷t̷e̷r̷</dc:creator>
+<pubDate>Tue, 27 Feb 2024 04:42:43 +0000</pubDate></item>
+<item><title>
+Cold February
+</title><description><![CDATA[
+
+<p>
+Sure has been chilly.  Worse yet out on my ass because of surly prideful people, I was just tired.  Gaining strength though and walking tall.<br/><br/>
+I recently acquired a slightly older Lenovo ThinkPad.  I'm enjoying that quite a lot.  More to come about that I'm sure.  Sad that I put the sim card adapter in the tray back in the slot, just destroyed any chance of using sim card now.  I figured I was going to have to buy a mother board.<br/><br/>
+I found one, it wasn't cheap, but it wasn't weak or really expensive.  I'm waiting for an injury and highly considering going to work once I can lift with my legs again.  No work in tecnology for me, unless ...  I thought about a printing shop; we'll see when we get where, there,<br/><br/>
+I'm once again holding off on the python exercising and gatherin knowledge and thoughtfulness about various security and abstract concepts.  I really don't know but I have a bad week almost there a bit ago and recovering this time is going okay.  I'll write again, <code>ciao=</code>
+</p>
+
+<p>Tags: <a href='tag_iwashere.html'>iwashere</a>, <a href='tag_wherewasi.html'>wherewasi</a>, <a href='tag_canugivemedirectionspls.html'>canugivemedirectionspls</a>, <a href='tag_niceand sunny.html'>niceand sunny</a>, <a href='tag_the8woodcutter.html'>the8woodcutter</a>, <a href='tag_re.sub.html'>re.sub</a>, <a href='tag_cleansed.html'>cleansed</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- text end -->
+]]></description><link>https://the8woodcutter.sh/blog/cold-february.html</link>
+<guid>https://the8woodcutter.sh/blog/./cold-february.html</guid>
+<dc:creator>t̷h̷e̷8̷w̷o̷o̷d̷c̷u̷t̷t̷e̷r̷</dc:creator>
+<pubDate>Sat, 17 Feb 2024 05:39:43 +0000</pubDate></item>
+<item><title>
+New for this young year
+</title><description><![CDATA[
+
+<p>
+Greetings Internet People.  I thought I would write a post here now about new stuff that's happened-ning.<br/><br/>
+So that music site project I was talking about in the last post, it's much nice now!  You can check it out here: <a href="https://musicplace.vip" target="_blank">MusicPlace.Vip</a>.  I kept the same theme of top level domain (the ".vip") as my other favorite domain name "TooFast.vip" (which is my main XMPP server host).  I originally thought of just using a subdomain, as "musicplace.toofast.vip", but was very attracted to the appearance of "MusicPlace.vip" and it was only about 7 dollars Canadian.  So over the winter holidays, xmas season, I been occasionally working on this flask application, in part to learn flask web application framework using python language, but also because I had a motivation and that was to be able to share music links on XMPP chats that are not rewritten filenames to some bullcrap non-human readable hash string, and are from a creative origin.  The idea was that if I'm playing my music in my VLC or Poweramp app while out and about and I find a cool track in my same collection, as on phone as on server, that instead of uploading the file as it is and it get renamed to aerjnoiub98eronbo.flac, I want that filename to show what the file is!  Sometimes people don't want to download crap that has no readable name, as well sometimes people want to keep their file they downloaded, so if I shared it it was for them to listen to sure, but the option to keep it is now successful because going through their files they'll find a file that's named a way they can know wtf it is.  Makes sense right?  But XMPP and some of the developers for client software and such have a different political idea of how HTTP upload file shares should work.  Not many people believe that uploads are away of sharing files, they're supposed to be inline images, or something really web 3.0 bullshit.  I find that XMPP is losing it's original web chat spirit because of these "phone fags" as some people would call them, that only think in their development and software progression like a phone user.  Sad, really, cuz I am oldschool about web stuff, and I found a lot of value in the way things used to be but see it actively unable to exist anymore.  I guess such is life.<br/><br/>
+So "MusicPlace.vip" the file, or the "/musiclist", is locked by a super secret password, and at this time it is really only myself that gets to use that as I recently changed the passwd and probably will somewhat often.  I wanted also to be able to share my music files, which a lot of them are in fact paid for and HQ audio, but I didn't like it as an open public webserver directory as I'm not sure but I don't think that's legal, I really don't know becacuse I cannot digest terms + services legal jargon, who reads that stuff anyways?  NOBODY!  So but I may have heard it's not legal or something, I don't really believe that because as I said that the purpose is to share them the only available way to XMPP chat.  I did due diligence, and whatever.<br/><br/>
+I am really stoked about the CSS (styles) though, it seems I've created a theme with it too because I've created a subdomain (another simpler flask project inside the musicplace project) that is my place to post a public prayer.  I follow the Christian faith.  I thought of this as a cool way to praise the Lord.  It also uses a similar almost same CSS theme, you can view that at <a href="https://prayers.musicplace.vip" target="_blank">prayers.musicplace.vip</a>.  <b>It is not finished yet</b>.<br/><br/>
+Another thing, I suppose I wouldn't be proud of, is a bullshit saga going on that I'm making the most of with humour and no fucks given, is a saga where I was originally banished back to an XMPP group chat I thoroughly hate and in such banishment, which not a nice thing to do, I suppose I've seized the opportunity to shit all over that chat and do and say whatever the hell I want cuz <a href="../ufq.html" target="_blank">fuck you</a>.  That's because they all did an offence to me and already hate me and think bads things about me so I am indeed being a plague and don't care, you cannot nor will not be able to make me care.  LoL..  Stubborn, I know, but in my eyes it's worth the hilarity it causes sometimes and I should learn to care less about what internet people have to say, not in the way that it creates more problems for folks, just that I have been known to get offended.  People don't care to unnofffend me once offending me and I cry a lot because of this, and so, I am now perpetually full retard until enough of my JIDs are banned I feel successful.<br/><br/>
+So yea, that's the happening today for recently.  I am enjoying flask, because I enjoy pythons, and the creative juices are a flowing!  If you want the password for the music app, only authorized people are allowed to ask me on XMPP as my JID is, you will have to figure that out.  I'm not giving it out publicly anymore.  So on this day it is good to be alive and thank God for all things provided, he is much our true captain and leader and rememberig Him is loving Him who loves us.  <code>pEAcE</code>
+</p>
+
+<p>Tags: <a href='tag_the8woodcutter.html'>the8woodcutter</a>, <a href='tag_news.html'>news</a>, <a href='tag_python.html'>python</a>, <a href='tag_flask.html'>flask</a>, <a href='tag_musicplace.html'>musicplace</a>, <a href='tag_webdev.html'>webdev</a>, <a href='tag_xmpp.html'>xmpp</a>, <a href='tag_saga.html'>saga</a>, <a href='tag_lulz.html'>lulz</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- text end -->
+]]></description><link>https://the8woodcutter.sh/blog/new-for-this-young-year.html</link>
+<guid>https://the8woodcutter.sh/blog/./new-for-this-young-year.html</guid>
+<dc:creator>t̷h̷e̷8̷w̷o̷o̷d̷c̷u̷t̷t̷e̷r̷</dc:creator>
+<pubDate>Fri, 26 Jan 2024 21:30:18 +0000</pubDate></item>
+</channel></rss>
